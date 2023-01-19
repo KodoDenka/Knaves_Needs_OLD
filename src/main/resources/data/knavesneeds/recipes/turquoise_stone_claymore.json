@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item": "blue_skies:turquoise_cobblestone"
+    }
+  },
+  "pattern": [
+    " XX",
+    "XXX",
+    "#X "
+  ],
+  "result": {
+    "item": "knavesneeds:turquoise_stone_claymore"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item": "blue_skies:lunar_cobblestone"
+    }
+  },
+  "pattern": [
+    "  X",
+    " # ",
+    "X  "
+  ],
+  "result": {
+    "item": "knavesneeds:lunar_stone_twinblade"
+  }
+}

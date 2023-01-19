@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item": "blue_skies:maple_planks"
+    }
+  },
+  "pattern": [
+    " X",
+    "XX",
+    "# "
+  ],
+  "result": {
+    "item": "knavesneeds:maple_wood_cutlass"
+  }
+}

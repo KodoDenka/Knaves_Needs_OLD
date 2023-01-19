@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item": "blue_skies:charoite"
+    }
+  },
+  "pattern": [
+    " XX",
+    "XXX",
+    "#X "
+  ],
+  "result": {
+    "item": "knavesneeds:charroite_claymore"
+  }
+}

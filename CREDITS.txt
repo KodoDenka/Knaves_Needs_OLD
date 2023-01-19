@@ -1,0 +1,34 @@
+Created by KodoDenka
+    https://twitter.com/KodoDenka
+
+Spritework by LostLandFound
+    https://twitter.com/ClanGauss
+
+Full respects to the following mods and their creators.
+
+Better Combat
+    https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus
+
+playerAnimator
+    https://github.com/KosmX/minecraftPlayerAnimator
+    https://modrinth.com/mod/playeranimator
+    https://www.curseforge.com/minecraft/mc-mods/playeranimator
+
+Cloth Config API
+    https://www.curseforge.com/minecraft/mc-mods/cloth-config
+    https://github.com/shedaniel/cloth-config
+
+Simple Swords
+    https://www.curseforge.com/minecraft/mc-mods/simply-swords
+    https://github.com/Sweenus/SimplySwords
+
+Twilight Forest
+    https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
+    https://github.com/TeamTwilight/twilightforest
+
+Blue Skies
+    https://www.curseforge.com/minecraft/mc-mods/blue-skies
+
+The Undergarden
+    https://www.curseforge.com/minecraft/mc-mods/the-undergarden
+    https://github.com/quek04/The-Undergarden
