@@ -35,5 +35,9 @@ public class KNSwordItem extends SwordItem {
             tooltip.add((new TranslatableComponent("tooltip.utheric_sword")).withStyle(ChatFormatting.RED));
         }
 
+        //if (stack.is(horizonite_weapon)) {
+
+        //}
+
     }
 }

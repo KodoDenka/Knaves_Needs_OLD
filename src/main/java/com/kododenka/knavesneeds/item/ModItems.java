@@ -382,20 +382,20 @@ public class ModItems {
     public static final RegistryObject<Item> charroite_scythe = BLUE_ITEMS.register("charroite_scythe", () -> new KNSwordItem(CHARROITE, CHARROITE_MOD + scythe_damage_mod, scythe_speed_mod));
 
     //Material - HORIZONITE
-    public static final RegistryObject<Item> horizonite_longsword = BLUE_ITEMS.register("horizonite_longsword", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + longsword_damage_mod, longsword_speed_mod));
-    public static final RegistryObject<Item> horizonite_twinblade = BLUE_ITEMS.register("horizonite_twinblade", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + twinblade_damage_mod, twinblade_speed_mod));
-    public static final RegistryObject<Item> horizonite_rapier = BLUE_ITEMS.register("horizonite_rapier", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + rapier_damage_mod, rapier_speed_mod));
-    public static final RegistryObject<Item> horizonite_katana = BLUE_ITEMS.register("horizonite_katana", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + katana_damage_mod, katana_speed_mod));
-    public static final RegistryObject<Item> horizonite_sai = BLUE_ITEMS.register("horizonite_sai", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + sai_damage_mod, sai_speed_mod));
-    public static final RegistryObject<Item> horizonite_spear = BLUE_ITEMS.register("horizonite_spear", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + spear_damage_mod, spear_speed_mod));
-    public static final RegistryObject<Item> horizonite_glaive = BLUE_ITEMS.register("horizonite_glaive", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + glaive_damage_mod, glaive_speed_mod));
-    public static final RegistryObject<Item> horizonite_warglaive = BLUE_ITEMS.register("horizonite_warglaive", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + warglaive_damage_mod, warglaive_speed_mod));
-    public static final RegistryObject<Item> horizonite_cutlass = BLUE_ITEMS.register("horizonite_cutlass", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + cutlass_damage_mod, cutlass_speed_mod));
-    public static final RegistryObject<Item> horizonite_claymore = BLUE_ITEMS.register("horizonite_claymore", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + claymore_damage_mod, claymore_speed_mod));
-    public static final RegistryObject<Item> horizonite_greataxe = BLUE_ITEMS.register("horizonite_greataxe", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + greataxe_damage_mod, greataxe_speed_mod));
-    public static final RegistryObject<Item> horizonite_greathammer = BLUE_ITEMS.register("horizonite_greathammer", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + greathammer_damage_mod, greathammer_speed_mod));
-    public static final RegistryObject<Item> horizonite_chakram = BLUE_ITEMS.register("horizonite_chakram", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + chakram_damage_mod, chakram_speed_mod));
-    public static final RegistryObject<Item> horizonite_scythe = BLUE_ITEMS.register("horizonite_scythe", () -> new KNSwordItem(HORIZONITE, HORIZONITE_MOD + scythe_damage_mod, scythe_speed_mod));
+    public static final RegistryObject<Item> horizonite_longsword = BLUE_ITEMS.register("horizonite_longsword", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + longsword_damage_mod, longsword_speed_mod));
+    public static final RegistryObject<Item> horizonite_twinblade = BLUE_ITEMS.register("horizonite_twinblade", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + twinblade_damage_mod, twinblade_speed_mod));
+    public static final RegistryObject<Item> horizonite_rapier = BLUE_ITEMS.register("horizonite_rapier", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + rapier_damage_mod, rapier_speed_mod));
+    public static final RegistryObject<Item> horizonite_katana = BLUE_ITEMS.register("horizonite_katana", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + katana_damage_mod, katana_speed_mod));
+    public static final RegistryObject<Item> horizonite_sai = BLUE_ITEMS.register("horizonite_sai", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + sai_damage_mod, sai_speed_mod));
+    public static final RegistryObject<Item> horizonite_spear = BLUE_ITEMS.register("horizonite_spear", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + spear_damage_mod, spear_speed_mod));
+    public static final RegistryObject<Item> horizonite_glaive = BLUE_ITEMS.register("horizonite_glaive", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + glaive_damage_mod, glaive_speed_mod));
+    public static final RegistryObject<Item> horizonite_warglaive = BLUE_ITEMS.register("horizonite_warglaive", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + warglaive_damage_mod, warglaive_speed_mod));
+    public static final RegistryObject<Item> horizonite_cutlass = BLUE_ITEMS.register("horizonite_cutlass", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + cutlass_damage_mod, cutlass_speed_mod));
+    public static final RegistryObject<Item> horizonite_claymore = BLUE_ITEMS.register("horizonite_claymore", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + claymore_damage_mod, claymore_speed_mod));
+    public static final RegistryObject<Item> horizonite_greataxe = BLUE_ITEMS.register("horizonite_greataxe", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + greataxe_damage_mod, greataxe_speed_mod));
+    public static final RegistryObject<Item> horizonite_greathammer = BLUE_ITEMS.register("horizonite_greathammer", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + greathammer_damage_mod, greathammer_speed_mod));
+    public static final RegistryObject<Item> horizonite_chakram = BLUE_ITEMS.register("horizonite_chakram", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + chakram_damage_mod, chakram_speed_mod));
+    public static final RegistryObject<Item> horizonite_scythe = BLUE_ITEMS.register("horizonite_scythe", () -> new KNFireSword(HORIZONITE, HORIZONITE_MOD + scythe_damage_mod, scythe_speed_mod));
 
     //Material - BLUEBRIGHT_WOOD
     public static final RegistryObject<Item> bluebright_wood_longsword = BLUE_ITEMS.register("bluebright_wood_longsword", () -> new KNSwordItem(BLUEBRIGHT_WOOD, BLUEBRIGHT_WOOD_MOD + longsword_damage_mod, longsword_speed_mod));

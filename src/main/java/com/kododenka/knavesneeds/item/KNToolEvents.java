@@ -5,6 +5,7 @@ import net.bettercombat.api.AttackHand;
 import net.bettercombat.api.EntityPlayer_BetterCombat;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.ItemTags;
+import net.minecraft.tags.Tag;
 import net.minecraft.tags.TagKey;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
@@ -30,6 +31,7 @@ public class KNToolEvents {
     public static final TagKey<Item> forgotten_weapon = ItemTags.create(new ResourceLocation("knavesneeds", "forgotten_weapons"));
     public static final TagKey<Item> froststeel_weapon = ItemTags.create(new ResourceLocation("knavesneeds", "froststeel_weapons"));
     public static final TagKey<Item> utherium_weapon = ItemTags.create(new ResourceLocation("knavesneeds", "utherium_weapons"));
+    //public static final TagKey<Item> horizonite_weapon = ItemTags.create(new ResourceLocation("knavesneeds", "horizonite_weapons"));
 
     @SubscribeEvent
     public static void forgottenAttackEvent(LivingHurtEvent event) {
