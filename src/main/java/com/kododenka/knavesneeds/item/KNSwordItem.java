@@ -28,11 +28,11 @@ public class KNSwordItem extends SwordItem {
         }
 
         if (stack.is(forgotten_weapon)) {
-            tooltip.add((new TranslatableComponent("tooltip.utheric_sword")).withStyle(ChatFormatting.RED));
+            tooltip.add((new TranslatableComponent("tooltip.forgotten_sword")).withStyle(ChatFormatting.GREEN));
         }
 
         if (stack.is(utherium_weapon)) {
-            tooltip.add((new TranslatableComponent("tooltip.forgotten_sword")).withStyle(ChatFormatting.GREEN));
+            tooltip.add((new TranslatableComponent("tooltip.utheric_sword")).withStyle(ChatFormatting.RED));
         }
 
     }

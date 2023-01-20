@@ -5,7 +5,7 @@
       "tag": "forge:rods/wooden"
     },
     "X": {
-      "item": "blue_skies:horizonite_ingot"
+      "item": "blue_skies:horizonite"
     }
   },
   "pattern": [
@@ -14,6 +14,6 @@
     "#  "
   ],
   "result": {
-    "item": "knavesneeds:horizonite_spear"
+    "item": "blue_skies:horizonite_spear"
   }
 }

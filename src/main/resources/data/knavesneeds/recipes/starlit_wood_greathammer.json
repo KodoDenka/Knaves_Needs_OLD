@@ -5,7 +5,7 @@
       "tag": "forge:rods/wooden"
     },
     "X": {
-      "item": "blue_skies:starlit_planks"
+      "item": "blue_skies:starlit_wood"
     }
   },
   "pattern": [
@@ -14,6 +14,6 @@
     " # "
   ],
   "result": {
-    "item": "knavesneeds:starlit_wood_greathammer"
+    "item": "blue_skies:starlit_wood_greathammer"
   }
 }

@@ -5,7 +5,7 @@
       "tag": "forge:rods/wooden"
     },
     "X": {
-      "item": "blue_skies:lunar_planks"
+      "item": "blue_skies:lunar_wood"
     }
   },
   "pattern": [
@@ -14,6 +14,6 @@
     "   "
   ],
   "result": {
-    "item": "knavesneeds:lunar_wood_warglaive"
+    "item": "blue_skies:lunar_wood_warglaive"
   }
 }

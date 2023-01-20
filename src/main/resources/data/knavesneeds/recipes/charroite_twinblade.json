@@ -5,7 +5,7 @@
       "tag": "forge:rods/wooden"
     },
     "X": {
-      "item": "blue_skies:charoite"
+      "item": "blue_skies:charroite"
     }
   },
   "pattern": [
@@ -14,6 +14,6 @@
     "X  "
   ],
   "result": {
-    "item": "knavesneeds:charroite_twinblade"
+    "item": "blue_skies:charroite_twinblade"
   }
 }
